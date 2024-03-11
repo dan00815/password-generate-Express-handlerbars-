@@ -1,0 +1,32 @@
+.back {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.main-container {
+  border-radius: 20px;
+  margin: 30px;
+  background-color: white;
+  width: 55%;
+  border: 1px solid blue;
+  height: 85%;
+}
+.main-container h2 {
+  margin: 15px;
+}
+.main-container .fa-key {
+  font-size: 2rem;
+  margin-left: 5px;
+}
+.main-container hr {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.main-container form {
+  margin: 15px;
+}
+.main-container form .check-section {
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
